@@ -5,6 +5,28 @@
 Diseñar y desarrollar una aplicación web y móvil en **React**, que permita a los usuarios **registrarse, iniciar sesión, crear, consultar, editar y cancelar citas**, mientras que el administrador podrá **gestionar todas las citas registradas**.  
 La aplicación también incluye un sistema de **notificaciones automáticas** para recordar a los usuarios sus citas programadas.
 
+## Alcance del sistema
+
+**Propósito General**
+Sistema integral para la gestión de visitantes, citas y personal en una organización, que incluye:
+
+- Registro y control de acceso de visitantes.
+- Gestión de agendas y citas.
+- Administración de personal e invitados.
+- Generaación de reportes y métricas.
+- Sistema de autenticación y roles.
+
+**Módulos Principales**
+- **Dashboard:** Vista general con métricas y resumen de actividades.
+- **Autenticación:** Sistema de login y control de acceso.
+- **Gestión de Citas:** Creación, edición y visualización de agendas.
+- **Calendario:** Vista mensual de todas las citas programadas.
+- **Gestión de Invitados:** Registro y administración de empleados de la organización.
+- **Gestión de Personal:** Administración de empleados de la organización.
+- **Recepción:** Módulo principal para registro de llegadas/salidas.
+- **Reportes:** Métricas y estadísticas del sistema.
+
+
 ## Características principales
 
 - Registro e inicio de sesión de usuarios.
