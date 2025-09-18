@@ -48,3 +48,9 @@ La aplicación también incluye un sistema de **notificaciones automáticas** pa
 - **Escalabilidad:** Permitir añadir nuevas funciones en el futuro.
  - **Disponibilidad:** Acceso 24/7 desde navegadores web y dispositivos móviles.
  - **Compatibilidad:** Funcionar con el sistema Windows, Linux y dispositivos móviles vía PWA.
+
+ ## Estructura del repositorio
+
+ ### Documentación
+ - Diagramas de Flujo: [Diagramas](docs/diagramas-de-flujo)
+ - Casos de Uso: [Diagramas]
