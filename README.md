@@ -53,4 +53,4 @@ La aplicación también incluye un sistema de **notificaciones automáticas** pa
 
  ### Documentación
  - Diagramas de Flujo: [Diagramas](docs/diagramas-de-flujo)
- - Casos de Uso: [Diagramas]
+ - Casos de Uso: [Diagramas](docs/diagramas-caso-de-uso/Casos-de-uso.png)
